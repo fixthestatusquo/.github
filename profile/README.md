@@ -14,3 +14,7 @@ If you want to push automatically new supporters to your CRM, check out our sync
 - [Sync repository](https://github.com/fixthestatusquo/proca-sync)
 
 contributions to integrate with other CRMs are more than welcome
+
+# Community and code of conduct
+
+Our vision is for radical change in society in a socialist, feminist, antiracist and sustainable direction. Our role within that is to make online campaigning easier and more effective and we are building a flexible and easy to use action tool which has all the useful features to help progressive campaigners change the world. We hope to help grow a diverse online community of progressive campaigners, technologists and activists who will support each other, share tricks and stories and grow together.
