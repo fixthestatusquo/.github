@@ -6,11 +6,11 @@ Looking to contribute
 
 Proca has a split tech architecture where the frontend is in React and the backend is in Elixir.
 
-- [Backend repository](/fixthestatusquo/proca-server)
-- [Frontend repository](/fixthestatusquo/proca)
+- [Backend repository](https://github.com/fixthestatusquo/proca-server)
+- [Frontend repository](https://github.com/fixthestatusquo/proca)
 
 If you want to push automatically new supporters to your CRM, check out our sync repository.
 
-- [Sync repository](/fixthestatusquo/proca-sync)
+- [Sync repository](https://github.com/fixthestatusquo/proca-sync)
 
 contributions to integrate with other CRMs are more than welcome
