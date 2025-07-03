@@ -7,7 +7,7 @@ Looking to contribute
 Proca has a split tech architecture where the frontend is in React and the backend is in Elixir.
 
 - [Frontend repository](https://github.com/fixthestatusquo/proca)
-- [Backend repository](https://github.com/fixthestatusquo/proca-server/tree/main/proca)
+- [Backend repository](https://github.com/fixthestatusquo/proca-server)
 
 They communicate via a [graphql API](https://doc.proca.app/welcome)
 
