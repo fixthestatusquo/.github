@@ -9,6 +9,9 @@ Proca has a split tech architecture where the frontend is in React and the backe
 - [Frontend repository](https://github.com/fixthestatusquo/proca)
 - [Backend repository](https://github.com/fixthestatusquo/proca-server)
 
+The frontend already includes a command line interface to manage the campaigns/organisation/widgets, but you might want to only install that [CLI](https://github.com/fixthestatusquo/proca-cli), for instance if you only want to download a csv of your supporters
+
+
 They communicate via a [graphql API](https://doc.proca.app/welcome)
 
 If you want to push automatically new supporters to your CRM, check out our sync repository.
