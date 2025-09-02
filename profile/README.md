@@ -2,17 +2,16 @@ Proca by Fix the Status Quo is a digital action toolkit for campaigners which al
 Proca Widgets can be used for actions such as signing petitions and twitterstorms, mail-to-target, social media campaigns and more. 
 Supporter sign-ups can be collected and stored securely, actions taken are tracked so you can see what works well, and social media share options can be easily integrated.
 
-Looking to contribute
+##  Looking to contribute?
 
 Proca has a split tech architecture where the frontend is in React and the backend is in Elixir.
 
 - [Frontend repository](https://github.com/fixthestatusquo/proca)
 - [Backend repository](https://github.com/fixthestatusquo/proca-server)
 
-The frontend already includes a command line interface to manage the campaigns/organisation/widgets, but you might want to only install that [CLI](https://github.com/fixthestatusquo/proca-cli), for instance if you only want to download a csv of your supporters
-
-
 They communicate via a [graphql API](https://doc.proca.app/welcome)
+
+The frontend already includes a command line interface to manage the campaigns/organisation/widgets, but you might want to only install that [CLI](https://github.com/fixthestatusquo/proca-cli), for instance if you only want to download a csv of your supporters
 
 If you want to push automatically new supporters to your CRM, check out our sync repository.
 
